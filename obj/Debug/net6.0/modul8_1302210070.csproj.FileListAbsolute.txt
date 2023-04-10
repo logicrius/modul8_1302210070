@@ -1,0 +1,17 @@
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\modul8_1302210070.exe
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\modul8_1302210070.deps.json
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\modul8_1302210070.runtimeconfig.json
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\modul8_1302210070.dll
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\modul8_1302210070.pdb
+E:\praktik\modul8_1302210070\modul8_1302210070\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.csproj.AssemblyReference.cache
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.GeneratedMSBuildEditorConfig.editorconfig
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.AssemblyInfoInputs.cache
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.AssemblyInfo.cs
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.csproj.CoreCompileInputs.cache
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.csproj.CopyComplete
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.dll
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\refint\modul8_1302210070.dll
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.pdb
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\modul8_1302210070.genruntimeconfig.cache
+E:\praktik\modul8_1302210070\modul8_1302210070\obj\Debug\net6.0\ref\modul8_1302210070.dll
